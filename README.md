@@ -1,6 +1,10 @@
 # android-emulator
 安卓游戏模拟器开源项目集合
 
+### [Kyty](https://github.com/InoriRus/Kyty)
+
+* PS4 & PS5 emulator
+
 ## [reicast-emulator](https://github.com/reicast/reicast-emulator/)
 
 * 世佳 Dreamcast 游戏模拟器 / A multiplatform Sega Dreamcast emulator
